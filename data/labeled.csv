@@ -1,0 +1,14 @@
+text,label
+We'll go with the Friday launch date.,decision
+Let's table the redesign until next sprint.,decision
+I think we should use Postgres for this.,decision
+Ali can you write up the meeting notes?,task_assigned
+Sara will handle the client email by Monday.,task_assigned
+Can someone take ownership of the deploy?,task_assigned
+What's our actual deadline here?,important_question
+Do we have budget approval for this?,important_question
+Who is the point of contact on their side?,important_question
+Did everyone have a good weekend?,small_talk
+Haha that meme was hilarious.,small_talk
+Anyone watch the game last night?,small_talk
+Coffee machine is broken again lol.,small_talk
